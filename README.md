@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaustubh!
-👨‍🎓 Studying Computer Science with a minor in Business Administration at the University of Cincinnati, Ohio<br/>
+👨‍🎓 Studying Computer Science with a Minor in Business Administration at the University of Cincinnati, Ohio<br/>
 💭 Currently learning about data analytics and [this](https://www.latentview.com/blog/unleashing-data-science-for-stock-market-trading/)!<br/>
 
 ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustubh-Mathur)
