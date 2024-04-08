@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaustubh!
-👩🏻‍🎓 Studying Computer Science at the University of Cincinnati, Ohio<br/>
+👨‍🎓 Studying Computer Science at the University of Cincinnati, Ohio<br/>
 💭 Currently learning about data analytics and [this]([https://pudding.cool/2018/08/pockets/](https://www.latentview.com/blog/unleashing-data-science-for-stock-market-trading/))!<br/>
 
 ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustubh-Mathur)
