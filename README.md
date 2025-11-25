@@ -2,9 +2,6 @@
 👨‍🎓 Studying Computer Science with a Minor in Business Administration at the University of Cincinnati, Ohio<br/>
 💭 Currently learning about data analytics and [this](https://www.latentview.com/blog/unleashing-data-science-for-stock-market-trading/)!<br/>
 
-![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustubh-Mathur)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh-Mathur&layout=compact"/>
-
 # 💻 Programming Languages I Worked With:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
